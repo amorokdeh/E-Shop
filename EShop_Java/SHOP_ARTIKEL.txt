@@ -1,0 +1,48 @@
+Sony Playstation 5
+1
+7
+500.0
+Samsung smart TV 4k
+2
+1
+600.0
+Gaming Keyboard mit RGB
+3
+8
+50.0
+Gaming Mouse
+4
+0
+20.0
+Gaming Headset
+5
+3
+35.0
+Nintendo Switch
+6
+2
+360.0
+Nintendo Controller
+7
+3
+80.0
+Video Light Soft box
+8
+140
+370.0
+Mini PC
+9
+27
+140.0
+Stuhl
+10
+8
+100.0
+xbox
+11
+40
+500.0
+Iphone 14 Pro Max
+12
+10
+1499.0

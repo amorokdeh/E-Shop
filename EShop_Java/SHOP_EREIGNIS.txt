@@ -1,0 +1,138 @@
+Artikel einfuegen
+10
+111
+3
+amokdeh
+Tue, 11 Jul 2021 10:19:16
+Artikel loeschen
+10
+0
+3
+amokdeh
+Tue, 12 Jul 2021 12:14:10
+Artikel einfuegen
+10
+11
+3
+amokdeh
+Tue, 13 Jul 2021 19:37:34
+Mitarbeiter registriert von amokdeh
+0
+0
+4
+aaa
+Tue, 13 Jul 2021 19:56:09
+Artikel loeschen
+10
+0
+3
+amokdeh
+Tue, 13 Jul 2021 21:20:58
+Mitarbeiter registriert von amokdeh
+0
+0
+0
+amokdeh
+Tue, 13 Jul 2021 21:22:39
+Mitarbeiter registriert von amokdeh
+0
+0
+4
+ml
+Tue, 13 Jul 2021 21:22:57
+Artikel einfuegen
+10
+11
+3
+amokdeh
+Tue, 13 Jul 2021 21:23:36
+Artikel loeschen
+10
+0
+3
+amokdeh
+Tue, 13 Jul 2021 21:26:09
+Mitarbeiter registriert von amokdeh
+0
+0
+0
+ml
+Tue, 13 Jul 2021 21:27:42
+Artikel Kaufen
+9
+3
+2
+mk
+Tue, 13 Jul 2021 21:34:09
+Kunde registriert
+0
+0
+5
+mm
+Tue, 13 Jul 2021 21:35:47
+Artikel einfuegen
+10
+20
+3
+ao
+Wed, 14 Jul 2021 11:36:44
+Artikel Kaufen
+10
+10
+2
+ma
+Wed, 14 Jul 2021 11:38:20
+Artikel Kaufen
+8
+2
+2
+ma
+Mon, 1 Nov 2021 19:51:09
+Artikel Kaufen
+9
+3
+2
+ma
+Mon, 1 Nov 2021 19:51:09
+Artikel Kaufen
+9
+3
+2
+ma
+Wed, 1 Dec 2021 15:39:10
+Artikel Kaufen
+10
+2
+2
+ma
+Wed, 1 Dec 2021 15:39:10
+Artikel einfuegen
+11
+40
+3
+ao
+Wed, 1 Dec 2021 15:40:48
+Kunde registriert
+0
+0
+4
+moham
+Tue, 2 May 2023 17:05:32
+Artikel Kaufen
+1
+2
+4
+moham
+Tue, 2 May 2023 17:11:05
+Artikel Kaufen
+6
+3
+4
+moham
+Tue, 2 May 2023 17:11:05
+Artikel einfuegen
+12
+10
+3
+ao
+Tue, 2 May 2023 17:16:20
